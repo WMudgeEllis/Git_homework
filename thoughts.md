@@ -4,3 +4,5 @@ If one is struggling, reach out to one's peers.
 
 Pomodorro style of work pattern.
 Explicit time management via calendars.
+
+Shout out to the dog ptera for playing ball and taking me on walks!
